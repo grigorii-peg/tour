@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\bin\Debug\Last-min Tour.exe.config
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\bin\Debug\Last-min Tour.exe
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\bin\Debug\Last-min Tour.pdb
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\obj\Debug\Last-min Tour.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\obj\Debug\Last-min Tour.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\obj\Debug\Last_min_Tour.Form1.resources
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\obj\Debug\Last_min_Tour.Properties.Resources.resources
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\obj\Debug\Last-min Tour.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\obj\Debug\Last-min Tour.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\obj\Debug\Last-min Tour.exe
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\obj\Debug\Last-min Tour.pdb
+C:\Users\Admin\Desktop\С++\C#\Last-min Tour\obj\Debug\Last_min_Tour.InfoTour.resources
